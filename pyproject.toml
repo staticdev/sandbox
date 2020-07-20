@@ -6,7 +6,7 @@ authors = ["staticdev <thiagocavila@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-humanizer-portugues = "^1.0.0"
+humanizer-portugues = "^2.3.3"
 
 [tool.poetry.dev-dependencies]
 

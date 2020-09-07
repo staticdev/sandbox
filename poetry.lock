@@ -1,17 +1,18 @@
 [[package]]
 category = "main"
-description = "Funções para humanização (humanize) para python"
+description = "Humanize functions for Portuguese."
 name = "humanizer-portugues"
 optional = false
-python-versions = "*"
-version = "1.0.0"
+python-versions = ">=3.7,<4.0"
+version = "2.3.4"
 
 [metadata]
-content-hash = "fa4c662787b295e08415c707794026674d24ef872d0fe3ba9c26b24a5c3e27bf"
+content-hash = "fafb334cb038533f851c23d0b63254223abf72ce4f02987e7064b0c95566699a"
+lock-version = "1.0"
 python-versions = "^3.8"
 
 [metadata.files]
 humanizer-portugues = [
-    {file = "humanizer-portugues-1.0.0.tar.gz", hash = "sha256:2f9205d4c098fbb4f359a4918e5ef3350765a4463dbd69c3be37ce68870b7a13"},
-    {file = "humanizer_portugues-1.0.0-py3-none-any.whl", hash = "sha256:3cec22ef51302f9f1295f099e3eaefed1a2e6688c220f02055ecbed7b2652a99"},
+    {file = "humanizer-portugues-2.3.4.tar.gz", hash = "sha256:1c7fc26a99e4ac255982b3977c7e34831088b7ffc90503c1b1a4ecb71bf3b962"},
+    {file = "humanizer_portugues-2.3.4-py3-none-any.whl", hash = "sha256:7bcacf9db36b9086e4ee6f75cca7aa3d8d650303644c7ad4e2c7c1f385a0a1d1"},
 ]

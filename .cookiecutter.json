@@ -1,0 +1,10 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Thiago Carvalho D'\u00c1vila",
+  "email": "thiagocavila@gmail.com",
+  "friendly_name": "Sandbox",
+  "github_user": "staticdev",
+  "package_name": "sandbox",
+  "project_name": "sandbox",
+  "version": "0.0.0"
+}
